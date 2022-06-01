@@ -7,3 +7,4 @@ Realizando as atividades do bootcamp, no módulo sobre transitions.
  * Cards
  * Keyframe
  * Menu Hamburguer
+ * Chat Icon Flutuante
